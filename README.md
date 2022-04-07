@@ -23,6 +23,11 @@ IPFS is a permanent and a decentralized storage network designed to store data.
 
 Our project uses IPFS for storing the data of an NFT. Which means the NFT data is parmanent and can't be deleted. Minted NFT's can also be seen on opensea by clicking on link under your minted NFT card.
 
+### BICONOMY
+Biconomy (BICO) is a multi-chain, plug-and-play relayer protocol that can handle transaction management, gas payments and bridges for Web 3.0 applications.
+
+Our Project use Biconomy to to make NFT miniting gasless. So user inboarding become simple and user easy. New user without worrying about Money (Crypto Balance) can join our project easily and become the part of Web3 Revolution.
+
 ### Solidity Smart Contract
 We built our own smart contract for storing our metadata URL's from IPFS, Since we want our project to be completely decentralized.
 
@@ -43,7 +48,7 @@ To be able to interact with the dapp, you need a Metmask Wallet and Polygon Mumb
    - https://mumbaifaucet.com/
 
 
-**After clicking on the [link](https://travelers-quest.vercel.app/ enter your link) you will enter this page.**
+**After clicking on the [link](https://traveller-quest.vercel.app/) you will enter this page.**
 
 ![image](https://user-images.githubusercontent.com/47449493/160282986-fdfba215-05cb-491d-aab2-20e954ddd8b8.png)
 
